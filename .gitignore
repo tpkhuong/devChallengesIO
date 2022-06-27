@@ -1,1 +1,4 @@
+/frontEndDev/weatherApp/node_modules
+/frontEndDev/weatherApp/.env
 /node_modules
+.env
