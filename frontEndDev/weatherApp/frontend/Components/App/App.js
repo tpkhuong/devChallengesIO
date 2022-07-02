@@ -33,6 +33,8 @@ function App() {
           TODO
         </button>
         {/* have bg img based on user location for weather app */}
+        {/* app design by Mayank Chaudhary */}
+        {/* icons by Zvonimir Juranko */}
       </React.Fragment>
     );
   };
